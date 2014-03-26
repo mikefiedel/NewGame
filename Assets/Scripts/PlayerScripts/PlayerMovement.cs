@@ -4,24 +4,28 @@ using System.Collections;
 public class PlayerMovement : MonoBehaviour
 {
 
-		int MovementSpeed;
+	int MovementSpeed;
 
 
-		// Use this for initialization
-		void Start ()
-		{
-				MovementSpeed = 1;
-		}
+	// Use this for initialization
+	void Start ()
+	{
+		MovementSpeed = 20;
+	}
 	
-		// Update is called once per frame
-		void Update ()
-		{
+	// Update is called once per frame
+	void Update ()
+	{
+		
+	}
 
-				float HorizontalMovement = Input.GetAxis ("Horizontal");
-				float VerticalMovement = Input.GetAxis ("Vertical");
+	void FixedUpdate ()
+	{
+		float HorizontalMovement = Input.GetAxis ("Horizontal");
+		float VerticalMovement = Input.GetAxis ("Vertical");
 
-				Vector3 MovementDirection = new Vector2 (HorizontalMovement, VerticalMovement);
+		Vector2 MovementDirection = new Vector2 (HorizontalMovement * MovementSpeed, VerticalMovement * MovementSpeed);
+		rigidbody2D.velocity = MovementDirection;
+	}
 
-				rigidbody2D.velocity (MovementDirection);
-		}
 }
