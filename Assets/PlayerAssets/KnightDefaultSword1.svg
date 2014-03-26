@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg3150"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="KnightDefaultSword1.svg"
+   inkscape:export-filename="C:\Users\Donald\Documents\Save The Princess\Pictures\KnightDefaultSword1.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs3152" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="375"
+     inkscape:cy="520"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="463"
+     inkscape:window-height="423"
+     inkscape:window-x="25"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata3155">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#808080;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 320,656.6479 C 297.62319,494.41606 285.56112,323.87138 230,190.93361 c 27.81277,-32.44823 45.33213,-65.82842 80,-104.285714 37.19703,26.887714 61.10876,64.864984 90,98.571434 -18.24306,156.53233 -27.36792,317.2897 -50,475.71428"
+       id="path3158"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 320,656.6479 c 11.42857,0 22.85714,0 34.28571,0"
+       id="path3164"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#502d16;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 310,790.93362 c 0,-34.76191 0,-69.52381 0,-104.28572 19.63623,-0.29117 25.91928,2.50832 44.28571,4.28572 -5.03212,35.48684 -7.83711,72.56792 -4.28571,105.71428 -7.39208,-11.25891 -26.66667,-3.80952 -40,-5.71428 z"
+       id="path3174"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#333333;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 480,640.93362 c -109.01711,23.70631 -188.1768,1.42857 -300,1.42857 49.3639,61.48306 254.7629,79.35196 300,-1.42857 z"
+       id="path3168"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#808080;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 305.71429,783.79075 c -27.41054,106.19461 130.6793,0 0,0 z"
+       id="path3176"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>
